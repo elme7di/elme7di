@@ -47,7 +47,7 @@
 <ul >
   
 ###  Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,c,cpp,java,kotlin,py)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,c,java,kotlin,py)](https://skillicons.dev)  
 
 ###  Frontend Development  
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,vite)](https://skillicons.dev)
