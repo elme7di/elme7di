@@ -3,7 +3,7 @@
 
 # Hi, I am Mehdi 👋
 
-<img src="banner1.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 
 <!--horizontal divider(gradiant)-->
