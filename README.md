@@ -28,11 +28,11 @@
   <!--- stats (start) -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=thenotoriousmehdi&theme=tokyonight&show_icons=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=elme7di&theme=tokyonight&show_icons=true&count_private=true"
       alt="GitHub Stats"
     />
     <img
-      src="http://github-readme-streak-stats.herokuapp.com?user=thenotoriousmehdi&theme=tokyonight"
+      src="http://github-readme-streak-stats.herokuapp.com?user=elme7di&theme=tokyonight"
       alt="GitHub Streak"
     />
   </div>
